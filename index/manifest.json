@@ -1,0 +1,20 @@
+{
+  "embed_model": "gemini-embedding-001",
+  "dims": 768,
+  "task_type": "RETRIEVAL_DOCUMENT",
+  "chunk_size": 1500,
+  "overlap": 200,
+  "n_chunks": 535,
+  "docs": {
+    "alcohol.txt": 6272,
+    "animals.txt": 59802,
+    "buildings.txt": 198568,
+    "fire.txt": 75015,
+    "health.txt": 52502,
+    "nuisances.txt": 6807,
+    "offenses.txt": 33856,
+    "parks.txt": 16688,
+    "streets.txt": 148348,
+    "traffic.txt": 93309
+  }
+}
